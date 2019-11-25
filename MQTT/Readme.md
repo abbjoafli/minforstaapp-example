@@ -16,3 +16,5 @@ Följ denna länk för att använda MQTT i REACT NATIVE [how-to-use-mqtt-with-re
 4. I onSubscribe vill man ändra till sin topics adress, min är nedan
 `        MqttService.subscribe('joakim.flink@abbindustrigymnasium.se/lampa', this.onWORLD)`
 
+## I denna mapp
+I denna submapp så finns ett fungerande exempel man kan ladda ner och testa eller kika på. Det finns en MQTT komponent som kopplar upp sig till. Det finns även en empty component som man kan ha som grund i sina framtida komponenter!
