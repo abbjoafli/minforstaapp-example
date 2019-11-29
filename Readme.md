@@ -23,3 +23,8 @@ npm install react-native-rss-parser --save
 https://www.yr.no/sted/Sverige/Västmanland/Västerås/varsel.xml
 https://www.npmjs.com/package/react-native-xml2js
 npm i react-native-xml2js
+
+
+## MQTT
+Man kan antingen följa guiden på länken här([MQTT med reactnative](https://motion-software.com/blog/how-to-use-mqtt-with-react-native/)
+), denna länk är den jag har exempelkod på här i githuben, vill man inte följa den så kan man använda sättet vi gjorde mqtt på i Node JS.
